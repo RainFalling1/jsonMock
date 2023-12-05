@@ -1,0 +1,24 @@
+{
+  "err_code": 200,
+  "obj": {
+    "nik": "3276052201940003",
+    "nama": "JANWARI FARQI SAPTIO",
+    "tempat_lahir": "JAKARTA",
+    "tanggal_lahir": "22-01-1994",
+    "alamat": "PERUM MEKAR PERDANA BLOK K NO.4",
+    "agama": "ISLAM",
+    "pekerjaan": "PELAJARMAHASISWA",
+    "jenis_kelamin": "LAKI-LAKI",
+    "status_hubungan_keluarga": "KAWIN",
+    "status_pernikahan": "KAWIN",
+    "rt": "008",
+    "rw": "022",
+    "kabupaten_kota": "KOTA DEPOK",
+    "kecamatan": "SUKMAJAYA",
+    "kel_Desa": "ABADIJAYA",
+    "provinsi": "JAWA BARAT",
+    "golongan_darah": "TIDAK TAHU",
+    "message": ""
+  },
+  "err_msg": ""
+}
